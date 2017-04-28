@@ -4,3 +4,4 @@
 ### Array
 #### 414. Third Maximum Number
 #### 561. Array Partition I
+#### 532. K-diff Pairs in an Array
